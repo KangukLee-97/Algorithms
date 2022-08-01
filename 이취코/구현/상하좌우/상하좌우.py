@@ -1,6 +1,3 @@
-from shutil import move
-
-
 n = int(input())
 plan = list(input().split())
 x, y = 1, 1
